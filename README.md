@@ -1,3 +1,3 @@
-# Threat Map Proto
+# Threat Map Prototype - Volcano Data
 
-### react-leaflet prototype for cisco security threat map - here using global earthquake || volcano locations (4-2021)
+### react-leaflet prototype for Cisco SecureX threat map - here using global volcano locations (Q2 2021)
